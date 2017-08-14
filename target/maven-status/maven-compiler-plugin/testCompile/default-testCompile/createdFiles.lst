@@ -1,0 +1,13 @@
+tests\validators\CurrencyValidatorTest.class
+JSONDataProviderTest.class
+tests\validators\ExpiryDateValidatorTest.class
+tests\model\SpotTest.class
+TradeInformationsValidatorEngineTest.class
+tests\validators\ValueDateLaterThanTradeDateValidatorTest.class
+tests\model\ForwardTest.class
+tests\validators\ExcerciseStartDateExpiryDateValidatorTest.class
+tests\model\OptionTest.class
+tests\validators\ValueDateCannotFallOnFreeDayValidatorTest.class
+tests\validators\ExcerciseStartDateTradeDateValidatorTest.class
+tests\validators\PartnerValidatorTest.class
+tests\validators\PremiumDateValidatorTest.class
